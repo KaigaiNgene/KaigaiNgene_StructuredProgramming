@@ -1,2 +1,2 @@
-# C-simple-calculator
-A simple command line calculator written in C. Built as a university programming assignment to practice conditional logic, functions and basic arithmetic operations. 
+1. Assignment 1: Simple Calculator, Sphere Area, String Length
+2. Assignment 2: PIN-Based Door Lock System, Student Grading system using if-else-if-else and Switch Case
